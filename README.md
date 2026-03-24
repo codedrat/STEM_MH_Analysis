@@ -1,0 +1,1 @@
+A project utilizing Google's Malaysian University Study to analyze academic performance per major discipline and its correlation to self-reported, broad mental health symptoms like depression, anxiety, panic attacks, and specialist interventions.
